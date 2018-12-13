@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "genial-stage-220109",
+  "private_key_id": "79f75055bcebfad2f41f33ac6119bf3f71414c04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDL4OCuUpEEEozV\nLtm6c12t/TCbVJmMd0s4veIKgbP3jC+P4+sZX/5u14TKM/DGDC/iiPpLlnQdXfJH\nmHJkf5Iug+F6p4btHDEEudVtGYzCk8GouMGYw66Df34FI0rrSbvdMjavtuqoTnMX\neNx4JSpcfc1shmnzVLpFZYwgVdUiC76nREXWACfySay8i/Rd09lv9ezsNlZXkNyx\nVoQV0Jo2UKdGP6xtY5QC4xQ/e+Z+1MSEEpu8GPa0U0iaFFPudLjnJH27CMLpw788\nTWyNKWSb9tRsauhd/UkZW1BEGA8S+FRRBBRvsCnFrvtEghuZc3VQXTqM5Rz5/aoI\nYWKOcyj5AgMBAAECgf8IXZfKsVkv1h97cE63cMK2lQwuosRfaZ6e8pYkRPfQdH7X\neIBqP1+ZgtGlTRHTjWrENK1bSqqfkKgH/4rs/Pa31HIRdqEAkcYmYCpojMpZh6j5\nV71lxrzu40fQasIHX99wt38IFeYXgLziJUnNsdhsjTK8agk5rJix2BCj6qtVTXuH\nqJoMviZA/zgr+Mf9357aKQqPNM5w3DRKPKbvc/xmh3nJwe/jDMNvJdfgZnuDx3vN\nnI5hZPe21E2ZesnbLSiBNT6V2oyxXi9FB037zXRzG2T0LGpsXjBh2VXEK+kfRdWH\nrca2iJ7joJU4rhNIamkFW9BllzJVoBIh29VMOPECgYEA6JGagyjz+F6vKnOslash\nEZ1dgFH1+iHfM7KEQnmWeXMcvi/FE0yGgvxEAHUprV5vdSY+7H/lX1F/LG0cEdES\n5EoH7EfF482u3QBZ/khPoOvGsaxrNtoNc6KCsEv31KHO94FOBxtuzCxI0pu0aojv\nF8ugV8vbOaBb2CC01436Gr0CgYEA4GtLifHcaaxJ9adrn20KTcCk8SswHMaN4YH6\n63UAFvWfvfwWwUfJjRoJwhqnEt2hTlQs11REV31YHBOjiG9UUwDiaTIbyBWuaCff\n0/wlWJvPASIXr3rCgIpo5buvwg7gBb4I9HefB5gZ9A6pxqyO3R9l5QvvWP2ReOtU\n9dPEiO0CgYEA4b27CcatkQ5u3jjrc1dpQMzLnitwI/vOyEJmCJQ2j+pBIwYBN+tW\nwTuV0g/nhWWdsEuQVkUKYkwbsgaycUTMHpURPbKpDaZvLgsSTzTnPd69vWYLp3Fe\nDzjVu8Pxag4pc6qqD1H8aOgvQ2ZpZ+NEmIdJOw8f2r6hh5avkm84Lc0CgYB1XIcv\nh7WN6dTvy/NDd4G48bMQkFZj5g5SzWfMdO5sE13LvCamQ4WK7gAGa2vOOOtfjDO7\nFE19N4a5gCe4dQgzNDYzb0oKFBSWUawDL0zUjv7th8e9NES9diSvZ7zdjmvndN84\nAcq/7PI9qOFujdVUnFPsOZadAlZuVxuiR3HzbQKBgQDeucYhiRxcUrf2Wk5RpaBe\n00ylmNwi6U57MvU0z8AB+SSegIWYkmPBcbngpaCqYCA0SmimMSd2F+QrpaQxMdbx\n8CeQBg7woV7GR4sp8UaFiAXRXQ81ZsCnOj4CQTG0QGMcwCQMnjwwsuEn9wTiOViO\nBPazvD4g8XoT1lgJWKIYTQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "advaita@genial-stage-220109.iam.gserviceaccount.com",
+  "client_id": "110831398195056105590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/advaita%40genial-stage-220109.iam.gserviceaccount.com"
+}
